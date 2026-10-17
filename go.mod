@@ -3,7 +3,7 @@ module github.com/o-ga09/spec2scenario
 go 1.26
 
 require (
-	github.com/getkin/kin-openapi v0.149.0
+	github.com/getkin/kin-openapi v0.150.0
 	github.com/spf13/cobra v1.10.2
 	gopkg.in/yaml.v2 v2.4.0
 )
